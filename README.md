@@ -23,7 +23,7 @@ I have finished my school on 13.06.2022. After that I am ready for a work enviro
   <a href="https://www.instagram.com/halukcansarioz/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="halukcansarioz" width="40" height="40" style="margin-right: 21em; display:block"/> </a> &nbsp;
   <a href="https://www.linkedin.com/in/halukcan-sar%C4%B1%C3%B6z/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="halukcansarioz" width="35" height="45"/> </a> &nbsp;
   <a href="https://github.com/HalukCanSarioz" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/09/Octocat-1.svg" alt="asimcanyagiz" width="40" height="45" /> </a> 
-<img align="right" src="https://komarev.com/ghpvc/?username=asimcanyagiz&style=flat-square&color=blue" alt="" width="130" height="25" />
+<img align="right" src="https://komarev.com/ghpvc/?username=HalukCanSarioz&style=flat-square&color=blue" alt="" width="130" height="25" />
  
 
 
