@@ -2,7 +2,8 @@
 <h1 align="center">
   Hi everyone, my name is Haluk Can Sarıöz
 </h1> 
-I've been working to improve myself in the software development.I interested in web development fron-end. Currently I'm ready to collaborate for project. My traine as Dialysis Technician end at 04.08.2022. After that I am ready for a work environment where I can work together and improve myself.
+I've been working to improve myself in the software development.I interested in web development fron-end. Currently I'm ready to collaborate for project. 
+I have finished my school on 13.06.2022. After that I am ready for a work environment where I can work together and improve myself.
 <br>
 <br>
 
