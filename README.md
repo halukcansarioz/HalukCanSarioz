@@ -12,16 +12,12 @@ I've been working to improve myself in the software development.I interested in 
 
 ## Front-end Developer 👨🏼‍💻
 
-- 👨‍⚕️I am currently trainee as a Dialysis Technician on EGE UNIVERSITY Hospital (Application and Research Center).
 - 👨‍💻I strive to improve myself in the fields I am interested in and to become a professional in this sector, which I see as my hobby.
 - 📚I am currently a front-end student at Patika.dev.
-- ☕My hobbies are building robots, arduino, chess, 3D printer.
-- 🕺I have management experience. Because I was the manager of various activities in the Ekamit club at the university.
-- 🤳I was the Instagram story manager of the university club Egesavtek (Ege defense industry technology community).
+- ☕My hobbies include listening to music, playing the piano, playing basketball; watching movies, series and matches.
 
 
 ## Connect with me
-
 
   <a href="https://www.instagram.com/halukcansarioz/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="halukcansarioz" width="40" height="40" style="margin-right: 21em; display:block"/> </a> &nbsp;
   <a href="https://www.linkedin.com/in/halukcan-sar%C4%B1%C3%B6z/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="halukcansarioz" width="35" height="45"/> </a> &nbsp;
