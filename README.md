@@ -45,3 +45,4 @@ I have finished my school on 13.06.2022. After that I am ready for a work enviro
 [instagram]: https://www.instagram.com/halukcansarioz/
 [linkedin]: https://www.linkedin.com/in/halukcan-sar%C4%B1%C3%B6z/
 [github]: https://github.com/HalukCanSarioz
+[twitter]:https://twitter.com/OzHalukcan
