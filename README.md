@@ -42,8 +42,8 @@ I've been working to improve myself in the software development.I interested in 
 
  
 ##
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asimcanyagiz&show_icons=true&theme=radical&locale=en&layout=compact" width="44%" alt="halukcansarioz" /></p>
-<p>&nbsp;<img align="rigt" src="https://github-readme-stats.vercel.app/api?username=asimcanyagiz&show_icons=true&theme=radical" alt="asimcanyagiz" width="53%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HalukCanSarioz&show_icons=true&theme=radical&locale=en&layout=compact" width="44%" alt="halukcansarioz" /></p>
+<p>&nbsp;<img align="rigt" src="https://github-readme-stats.vercel.app/api?username=HalukCanSarioz&show_icons=true&theme=radical" alt="asimcanyagiz" width="53%" /></p>
 
 [instagram]: https://www.instagram.com/halukcansarioz/
 [linkedin]: https://www.linkedin.com/in/halukcan-sar%C4%B1%C3%B6z/
