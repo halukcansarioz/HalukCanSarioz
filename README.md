@@ -6,8 +6,11 @@ I've been working to improve myself in the software development.I interested in 
 I have finished my school on 13.06.2022. After that I am ready for a work environment where I can work together and improve myself.
 <br>
 <br>
-
-- 🌱 I am currently trying to improve myself on javascript.
+- 👋 Hi, I’m @HalukCanSarioz.
+- 🌱 I am currently trying to improve myself on javascript and flutter.
+- 👀 I’m interested in mobile application development and front-end.
+- 💞️ I am currently looking for a company for work.
+- 📫 You can reach me by sending e-mail to me.
 <hr>
 
 
