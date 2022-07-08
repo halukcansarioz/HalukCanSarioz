@@ -11,7 +11,7 @@ I have finished my school on 13.06.2022. After that I am ready for a work enviro
 - 🌱 I am currently trying to improve myself on javascript and flutter.
 - 👀 I’m interested in mobile application development and front-end.
 - 💞️ I am currently looking for a company for work.
-- 📫 You can reach me by sending e-mail to me.
+- 📫 You can reach me by sending halukcansarioz19@gmail.com to me.
 <hr>
 
 
