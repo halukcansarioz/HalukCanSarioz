@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hi everyone, I'm Haluk Can Sarıöz :blush:
+  Hi everyone👋, I'm Haluk Can Sarıöz :blush:
 </h1> 
 
 I've been working to improve myself in the software development.I interested in web development fron-end. Currently I'm ready to collaborate for project. 
