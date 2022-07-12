@@ -46,11 +46,11 @@ I have finished my school on 13.06.2022. After that I am ready for a work enviro
   <a href="https://www.python.org/" target="_blank"> <img src="https://journeyofthegeekcom.files.wordpress.com/2019/01/python_logo.png" alt="python" width="40" height="40"/> </a> 
 </p>
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" />][discord]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/messenger.svg" />][facebook]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/skype.svg" />][skype]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" />][discord]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/messenger.svg" />][facebook]
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/skype.svg" />][skype]
 
 ##
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HalukCanSarioz&show_icons=true&theme=radical&locale=en&layout=compact" width="44%" alt="halukcansarioz" /></p>
