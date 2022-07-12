@@ -26,7 +26,7 @@ I have finished my school on 13.06.2022. After that I am ready for a work enviro
 ## Connect with me
 
   <a href="https://www.instagram.com/halukcansarioz/" target="_blank"> <img src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" alt="halukcansarioz" width="40" height="40" style="margin-right: 21em; display:block"/> </a> &nbsp;
-  <a href="https://www.linkedin.com/in/halukcan-sar%C4%B1%C3%B6z/" target="_blank"> <img src="https://unpkg.com/simple-icons@v7/LinkedIn.svg" alt="halukcansarioz" width="35" height="45"/> </a> &nbsp;
+  <a href="https://www.linkedin.com/in/halukcan-sar%C4%B1%C3%B6z/" target="_blank"> <img src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" alt="halukcansarioz" width="35" height="45"/> </a> &nbsp;
   <a href="https://github.com/HalukCanSarioz" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/09/Octocat-1.svg" alt="halukcansarioz" width="40" height="45" /> </a> 
     <a href="https://twitter.com/OzHalukcan" target="_blank"> <img src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" alt="halukcansarioz" width="40" height="45" /> </a> 
   
@@ -44,8 +44,13 @@ I have finished my school on 13.06.2022. After that I am ready for a work enviro
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://flutter.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" alt="flutter" width="40" height="40"/> </a> 
   <a href="https://www.python.org/" target="_blank"> <img src="https://journeyofthegeekcom.files.wordpress.com/2019/01/python_logo.png" alt="python" width="40" height="40"/> </a> 
-
 </p>
+
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" />][discord]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/messenger.svg" />][facebook]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/skype.svg" />][skype]
 
 ##
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HalukCanSarioz&show_icons=true&theme=radical&locale=en&layout=compact" width="44%" alt="halukcansarioz" /></p>
