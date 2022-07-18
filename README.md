@@ -11,9 +11,9 @@ I have finished my school on 13.06.2022. After that I am ready for a work enviro
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
 - 👋 I’m @HalukCanSarioz.
-- 🌱 I am currently trying to improve myself on javascript, bootstrap, react and flutter.
-- 👀 I’m interested in mobile application development and front-end.
-- 💞️ 
+- 🌱 I am currently trying to improve myself on  bootstrap, react, html, css, javascript and flutter.
+- 👀 I am trying to improve myself in the field of mobile application development and front-end development.
+- 💞️ I graduated from Ankara University Computer Engineering Department. I am trying to improve and learn myself. I am looking for a job online or face to face.
 - 📫 You can reach me by sending halukcansarioz19@gmail.com to me.
 <br>
 <br>
