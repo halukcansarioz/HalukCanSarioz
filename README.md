@@ -9,7 +9,7 @@ I have finished my school on 13.06.2022. After that I am ready for a work enviro
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
-- 👋 Hi, I’m @HalukCanSarioz.
+- 👋 I’m @HalukCanSarioz.
 - 🌱 I am currently trying to improve myself on javascript, bootstrap, react and flutter.
 - 👀 I’m interested in mobile application development and front-end.
 - 💞️ I am currently looking for a company for work.
