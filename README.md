@@ -16,11 +16,18 @@ I have finished my school on 13.06.2022. After that I am ready for a work enviro
 - 👀 I am trying to improve myself in the field of mobile application development and front-end development.
 - 💞️ I graduated from Ankara University Computer Engineering Department. I am trying to improve and learn myself. I am looking for a job online or face to face.
 - 📫 You can reach me by sending halukcansarioz19@gmail.com to me.
-<br>
-<br>
 
 
-## Front-end Developer 👨🏼‍💻
+## 🚴‍♀️ My hobbies
+
+- Cycling & Running
+- Reading
+- Listening Music
+- Walking
+- Watching movie
+- Playing basketball, computer games, playing the piano
+
+## 👨🏼‍💻 Front-end Developer 
 
 - 👨‍💻I strive to improve myself in the fields I am interested in and to become a professional in this sector, which I see as my hobby.
 - 📚I am currently a front-end student at Patika.dev.
