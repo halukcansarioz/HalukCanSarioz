@@ -3,6 +3,7 @@
   Hi everyone👋, I'm Haluk Can Sarıöz :blush:
 </h1> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=halukcansarioz&label=Profile%20views&color=0e75b6&style=flat" alt="halukcansarioz" /> </p>
 I've been working to improve myself in the software development.I interested in web development fron-end. Currently I'm ready to collaborate for project. 
 I have finished my school on 13.06.2022. After that I am ready for a work environment where I can work together and improve myself.
 <br>
