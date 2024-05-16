@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halukcansarioz&label=Profile%20views&color=0e75b6&style=flat" alt="halukcansarioz" /> </p>
 I have been trying to improve myself since I graduated from Ankara University Computer Engineering. For this, I have been taking online courses from udemy, btk academy, coursea etc. I am working on application development with flutter and reactjs / react-native. I have about 6 months of experience. I am currently trying to develop myself on Front-end and Back-end. The courses I have taken are on these topics and I am developing projects on my own.
-
-Translated with DeepL.com (free version)
 <br>
 <br>
 
