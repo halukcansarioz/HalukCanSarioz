@@ -8,7 +8,7 @@ I have finished my school on 13.06.2022. After that I am ready for a work enviro
 <br>
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
 - 👋 I’m @HalukCanSarioz.
 - 🌱 I am currently trying to improve myself on  bootstrap, react, html, css, javascript and flutter.
