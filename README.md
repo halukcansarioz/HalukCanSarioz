@@ -6,7 +6,7 @@
   Computer Engineer | System & Test Engineer @ TÜBİTAK BİLGEM | AI & Software Enthusiast
 </h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=halukcansarioz&label=Profile%20views&color=0e75b6&style=flat" alt="halukcansarioz" />
 </p>
 
@@ -22,8 +22,6 @@
 - 📚 Always exploring new technologies and development practices
 - 📫 Reach me at: **halukcansarioz19@gmail.com**
 
----
-
 ## 🔭 Current Focus
 
 - Artificial Intelligence
@@ -35,7 +33,6 @@
 - Docker & DevOps
 - Full-Stack Web Development
 
----
 
 ## 👨‍💻 Featured Projects
 
@@ -46,9 +43,10 @@
 - 🌐 Web Development Projects
 - 🧪 Software Testing & Automation Tools
 
----
 
 ## 🚴‍♂️ Hobbies & Interests
+
+<img align="right" width="380" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🏀 Basketball
 - 🚴 Cycling & Running
@@ -59,7 +57,6 @@
 - 🎮 Gaming
 - 🚶 Walking
 
----
 
 <h3 align="left">Connect with me:</h3>
 
@@ -80,6 +77,8 @@
 <a href="https://www.hackerearth.com/@halukcansarioz19" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hackerearth" style="width: 40px; height: 30px; display: inline-block;" /></a>
 <a href="https://www.topcoder.com/members/halukcansarioz" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="topcoder" style="width: 40px; height: 30px; display: inline-block;" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -119,7 +118,6 @@
 <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
 </p>
----
 
 ### ⚡ Fun Fact
 
@@ -128,3 +126,12 @@
 ### 🚀 Motto
 
 > "Continuous improvement is better than delayed perfection."
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=halukcansarioz&theme=tokyo-night&hide_border=true" />
+</p>
+
