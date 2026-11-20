@@ -36,12 +36,12 @@
 
 ## 👨‍💻 Featured Projects
 
-- 🤖 Machine Learning & AI Projects
-- 📊 Data Analysis Applications
-- 🎭 Computer Vision Projects
-- 📝 Ruby on Rails Applications
-- 🌐 Web Development Projects
-- 🧪 Software Testing & Automation Tools
+- **[Financial-Sentiment-Analysis](https://github.com/halukcansarioz/Financial-Sentiment-Analysis)** — Financial text sentiment analysis using Machine Learning, FinBERT, and Explainable AI.
+- **[Multiple-Object-Tracking](https://github.com/halukcansarioz/Multiple-Object-Tracking)** — Multi-object detection and tracking in videos using YOLOv8, ByteTrack, PyTorch, and OpenCV.
+- **[WhatsApp-Privacy-Suite](https://github.com/halukcansarioz/WhatsApp-Privacy-Suite)** — Automated multi-section privacy manager & contact exclusion suite for WhatsApp Web with 5-layer Photo-Guard, 7 smart criteria, Studio UI, and Playwright desktop runner.
+- **[Sports-Analysis-Project](https://github.com/halukcansarioz/Sports-Analysis-Project)** — NBA player performance analysis and next-game fantasy point prediction using Python and Machine Learning.
+- **[Yds-Ai-Vocabulary-App](https://github.com/halukcansarioz/Yds-Ai-Vocabulary-App)** — AI-powered YDS & YÖKDİL vocabulary learning app built with React, FastAPI, and SQLite.
+- **[Wedding-Invitation](https://github.com/halukcansarioz/Wedding-Invitation)** — Interactive digital wedding invitation PWA built with React, Vite, TypeScript, and Supabase, featuring real-time RSVP management.
 
 
 ## 🚴‍♂️ Hobbies & Interests
