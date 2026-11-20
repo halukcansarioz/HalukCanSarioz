@@ -56,8 +56,8 @@
 
 | | |
 | :---: | :---: |
-| **🧠 AI / ML & Vision**<br><br>![AI / ML & Vision](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4&theme=dark)<br><br><sub>PyTorch · TensorFlow · Scikit-learn · OpenCV · Hugging Face</sub> | **💻 Languages**<br><br>![Languages](https:skillicons.dev/icons?i=python,ts,js,java&perline=4&theme=dark)<br>![Languages](https://skillicons.dev/icons?i=cs,cpp,c,dart&perline=4&theme=dark)<br><br><sub>Python · TypeScript · JavaScript · Java · C# · C++ · C · Dart</sub> |
-| **🌐 Web & Mobile**<br><br>![Web & Mobile](https:///skillicons.dev/icons?i=react,fastapi,nodejs,nextjs&perline=4&theme=dark)<br>![Web & Mobile](htps://skillicons.dev/icons?i=vite,tailwind,flutter,bootstrap&perline=4&theme=dark)p<br><br><sub>React · FastAPI · Node.js · Next.js · Vite · Tailwind CSS · Flutter · Bootstrap</sub> | **🗄️ Databases, DevOps & Testing**<br><br>![Databases, DevOps & Testing](https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,mongodb,docker,selenium,git,linux&perline=5&theme=dark)<br><br><sub>PostgreSQL · MySQL · SQLite · Supabase · MongoDB · Docker · Playwright · Selenium · Git · Linux</sub> |
+| **🧠 AI / ML & Vision**<br><br>![AI / ML & Vision](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4&theme=dark)<br><br><sub>PyTorch · TensorFlow · Scikit-learn · OpenCV · Hugging Face</sub> | **💻 Languages**<br><br>![Languages](https:skillicons.dev/icons?i=py,ts,js,java,cs,cpp,c,dart&perline=4&theme=dark)<br><br><sub>Python · TypeScript · JavaScript · Java · C# · C++ · C · Dart</sub> |
+| **🌐 Web & Mobile**<br><br>![Web & Mobile](https:///skillicons.dev/icons?i=react,fastapi,nodejs,nextjs,vite,tailwind,flutter,bootstrap&perline=4&theme=dark)<br><br><sub>React · FastAPI · Node.js · Next.js · Vite · Tailwind CSS · Flutter · Bootstrap</sub> | **🗄️ Databases, DevOps & Testing**<br><br>![Databases, DevOps & Testing](https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,mongodb,docker,selenium,git,linux&perline=5&theme=dark)<br><br><sub>PostgreSQL · MySQL · SQLite · Supabase · MongoDB · Docker · Playwright · Selenium · Git · Linux</sub> |
 
 </div>
 
