@@ -5,22 +5,14 @@
 ### Computer Engineer | System & Test Engineer @ TÜBİTAK BİLGEM | AI, Machine Learning, Computer Vision & Automation
 
 <p>
-  <a href="https://halukcansarioz.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/halukcan-sarioz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:halukcansarioz19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/ozhalukcan" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
+  <a href="https://halukcansarioz.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/halukcan-sarioz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="mailto:halukcansarioz19@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+<a href="https://twitter.com/ozhalukcan" target="_blank"><img src="https://img.shields.io/badge/X-161B22?style=flat-square&logo=x&logoColor=FFFFFF" alt="X" /></a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=halukcansarioz&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="halukcansarioz" />
+<img src="https://komarev.com/ghpvc/?username=halukcansarioz&label=Profile%20views&color=10B981&labelColor=161B22&style=flat-square" alt="halukcansarioz" />
 </p>
 
 </div>
