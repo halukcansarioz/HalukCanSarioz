@@ -135,3 +135,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=halukcansarioz&theme=tokyo-night&hide_border=true" />
 </p>
 
+---
+
+## 📄 License
+
+This repository is licensed under the [MIT License](LICENSE).
