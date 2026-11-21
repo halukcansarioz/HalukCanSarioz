@@ -39,7 +39,7 @@
 | [**Sports-Analysis-Project**](https://github.com/halukcansarioz/Sports-Analysis-Project) | ([Live Demo](https://haluk-nba-analytics.streamlit.app)) | NBA player performance analytics and next-game fantasy point prediction modeling | `Python` `Machine Learning` `Data Science` |
 | [**Yds-Ai-Vocabulary-App**](https://github.com/halukcansarioz/Yds-Ai-Vocabulary-App) | AI-powered YDS & YÖKDİL vocabulary learning platform with smart study workflows | `React` `FastAPI` `SQLite` `AI` |
 | [**Wedding-Invitation**](https://github.com/halukcansarioz/Wedding-Invitation) ([Live Demo](https://wedding-invitation-halook.vercel.app)) | Interactive digital wedding invitation PWA featuring real-time RSVP management | `React` `Vite` `TypeScript` `Supabase` |
-
+| [**Instagram-Follow-Checker-Pro**](https://github.com/halukcansarioz/Instagram-Follow-Checker-Pro) | CIT v10 engine with REST-GraphQL-Trie-Modal verification & anti-ban quota management | `JavaScript` `Tampermonkey` `GraphQL` |
 ---
 
 ## 🛠️ Tech Stack
