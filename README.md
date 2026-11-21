@@ -33,10 +33,10 @@
 
 | Project | Focus & Highlights | Tech Stack |
 | :--- | :--- | :--- |
-| [**Financial-Sentiment-Analysis**](https://github.com/halukcansarioz/Financial-Sentiment-Analysis) | Financial text sentiment analysis powered by Machine Learning, FinBERT, and Explainable AI (XAI) | `Python` `FinBERT` `NLP` `XAI` |
+| [**Financial-Sentiment-Analysis**](https://github.com/halukcansarioz/Financial-Sentiment-Analysis) ([Live Demo](https://financial-sentiment-analysis-leagweugj9sejpvgpzjxgc.streamlit.app/)) | Financial text sentiment analysis powered by Machine Learning, FinBERT, and Explainable AI (XAI) | `Python` `FinBERT` `NLP` `XAI` |
 | [**Multiple-Object-Tracking**](https://github.com/halukcansarioz/Multiple-Object-Tracking) | Real-time multi-object detection and tracking in video streams using YOLOv8 & ByteTrack | `Python` `YOLOv8` `ByteTrack` `PyTorch` `OpenCV` |
 | [**WhatsApp-Privacy-Suite**](https://github.com/halukcansarioz/WhatsApp-Privacy-Suite) | Automated multi-section privacy manager & contact exclusion suite for WhatsApp Web with 5-layer Photo-Guard, 7 smart criteria, Studio UI, and Playwright desktop runner | `Python` `Playwright` `Automation` `Studio UI` |
-| [**Sports-Analysis-Project**](https://github.com/halukcansarioz/Sports-Analysis-Project) | NBA player performance analytics and next-game fantasy point prediction modeling | `Python` `Machine Learning` `Data Science` |
+| [**Sports-Analysis-Project**](https://github.com/halukcansarioz/Sports-Analysis-Project) | ([Live Demo](https://sports-analysis-project-4blrwnkcmqg99lg6gj9fcy.streamlit.app/)) | NBA player performance analytics and next-game fantasy point prediction modeling | `Python` `Machine Learning` `Data Science` |
 | [**Yds-Ai-Vocabulary-App**](https://github.com/halukcansarioz/Yds-Ai-Vocabulary-App) | AI-powered YDS & YÖKDİL vocabulary learning platform with smart study workflows | `React` `FastAPI` `SQLite` `AI` |
 | [**Wedding-Invitation**](https://github.com/halukcansarioz/Wedding-Invitation) ([Live Demo](https://wedding-invitation-halook.vercel.app)) | Interactive digital wedding invitation PWA featuring real-time RSVP management | `React` `Vite` `TypeScript` `Supabase` |
 
