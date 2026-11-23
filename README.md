@@ -27,6 +27,7 @@ System & Test Engineer at **TÜBİTAK BİLGEM** specializing in system verificat
 | [Yds-Ai-Vocabulary-App](/halukcansarioz/Yds-Ai-Vocabulary-App) | AI-powered YDS vocabulary learning and practice application | React, FastAPI, SQLite, AI |
 | [WhatsApp-Privacy-Suite](/halukcansarioz/WhatsApp-Privacy-Suite) | Automated WhatsApp privacy and message management suite | Python, Playwright, Automation |
 | [qa-test-automation-suite](https://github.com/halukcansarioz/qa-test-automation-suite) | QA / Test Automation | Python, pytest, Playwright, Docker, CI |
+| [fastapi-docker-ci-starter](https://github.com/halukcansarioz/fastapi-docker-ci-starter) | FastAPI Microservice & CI Template | Python, FastAPI, pytest, Docker, CI |
 
 ---
 
