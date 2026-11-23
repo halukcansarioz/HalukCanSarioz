@@ -26,9 +26,9 @@ System & Test Engineer at **TÜBİTAK BİLGEM** specializing in system verificat
 | [Wedding-Invitation](/halukcansarioz/Wedding-Invitation) | Interactive digital wedding invitation PWA with real-time RSVP management | React, Vite, TypeScript, Supabase |
 | [Yds-Ai-Vocabulary-App](/halukcansarioz/Yds-Ai-Vocabulary-App) | AI-powered YDS vocabulary learning and practice application | React, FastAPI, SQLite, AI |
 | [WhatsApp-Privacy-Suite](/halukcansarioz/WhatsApp-Privacy-Suite) | Automated WhatsApp privacy and message management suite | Python, Playwright, Automation |
-| [qa-test-automation-suite](https://github.com/halukcansarioz/qa-test-automation-suite) | QA / Test Automation | Python, pytest, Playwright, Docker, CI |
-| [fastapi-docker-ci-starter](https://github.com/halukcansarioz/fastapi-docker-ci-starter) | FastAPI Microservice & CI Template | Python, FastAPI, pytest, Docker, CI |
-| [adimplan-edtech-saas](/halukcansarioz/adimplan-edtech-saas) | Multi-Tenant EdTech Coaching SaaS — PostgreSQL/Supabase RLS, FastAPI, Optical Parser, Live MVP | PostgreSQL, Supabase RLS, FastAPI, Optical Parser, pytest, Live MVP |
+| [QA-Test-Automation-Suite](https://github.com/halukcansarioz/QA-Test-Automation-Suite) | QA / Test Automation | Python, pytest, Playwright, Docker, CI |
+| [FastAPI-Docker-CI-Starter](https://github.com/halukcansarioz/FastAPI-Docker-CI-Starter) | FastAPI Microservice & CI Template | Python, FastAPI, pytest, Docker, CI |
+| [AdimPlan-EdTech-SaaS](/halukcansarioz/AdimPlan-EdTech-SaaS) | Multi-Tenant EdTech Coaching SaaS — PostgreSQL/Supabase RLS, FastAPI, Optical Parser, Live MVP | PostgreSQL, Supabase RLS, FastAPI, Optical Parser, pytest, Live MVP |
 
 ---
 
