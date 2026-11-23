@@ -26,6 +26,7 @@ System & Test Engineer at **TÜBİTAK BİLGEM** specializing in system verificat
 | [Wedding-Invitation](/halukcansarioz/Wedding-Invitation) | Interactive digital wedding invitation PWA with real-time RSVP management | React, Vite, TypeScript, Supabase |
 | [Yds-Ai-Vocabulary-App](/halukcansarioz/Yds-Ai-Vocabulary-App) | AI-powered YDS vocabulary learning and practice application | React, FastAPI, SQLite, AI |
 | [WhatsApp-Privacy-Suite](/halukcansarioz/WhatsApp-Privacy-Suite) | Automated WhatsApp privacy and message management suite | Python, Playwright, Automation |
+| [qa-test-automation-suite](https://github.com/halukcansarioz/qa-test-automation-suite) | QA / Test Automation | Python, pytest, Playwright, Docker, CI |
 
 ---
 
