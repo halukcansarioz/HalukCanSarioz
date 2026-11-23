@@ -28,6 +28,7 @@ System & Test Engineer at **TÜBİTAK BİLGEM** specializing in system verificat
 | [WhatsApp-Privacy-Suite](/halukcansarioz/WhatsApp-Privacy-Suite) | Automated WhatsApp privacy and message management suite | Python, Playwright, Automation |
 | [qa-test-automation-suite](https://github.com/halukcansarioz/qa-test-automation-suite) | QA / Test Automation | Python, pytest, Playwright, Docker, CI |
 | [fastapi-docker-ci-starter](https://github.com/halukcansarioz/fastapi-docker-ci-starter) | FastAPI Microservice & CI Template | Python, FastAPI, pytest, Docker, CI |
+| [adimplan-edtech-saas](/halukcansarioz/adimplan-edtech-saas) | Multi-Tenant EdTech Coaching SaaS — PostgreSQL/Supabase RLS, FastAPI, Optical Parser, Live MVP | PostgreSQL, Supabase RLS, FastAPI, Optical Parser, pytest, Live MVP |
 
 ---
 
