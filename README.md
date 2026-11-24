@@ -20,15 +20,15 @@ System & Test Engineer at **TÜBİTAK BİLGEM** specializing in system verificat
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [Multiple-Object-Tracking](/halukcansarioz/Multiple-Object-Tracking) | Multi-object detection and tracking in video streams | Python, YOLOv8, ByteTrack, PyTorch, OpenCV |
-| [Sports-Analysis-Project](/halukcansarioz/Sports-Analysis-Project) | NBA player performance analysis and next-game fantasy point prediction | Python, Machine Learning, Data Science |
-| [Financial-Sentiment-Analysis](/halukcansarioz/Financial-Sentiment-Analysis) | Financial text sentiment analysis with Explainable AI | Python, FinBERT, Transformers, XAI |
-| [Wedding-Invitation](/halukcansarioz/Wedding-Invitation) | Interactive digital wedding invitation PWA with real-time RSVP management | React, Vite, TypeScript, Supabase |
-| [Yds-Ai-Vocabulary-App](/halukcansarioz/Yds-Ai-Vocabulary-App) | AI-powered YDS vocabulary learning and practice application | React, FastAPI, SQLite, AI |
-| [WhatsApp-Privacy-Suite](/halukcansarioz/WhatsApp-Privacy-Suite) | Automated WhatsApp privacy and message management suite | Python, Playwright, Automation |
+| [Multiple-Object-Tracking](https://github.com/halukcansarioz/Multiple-Object-Tracking) | Multi-object detection and tracking in video streams | Python, YOLOv8, ByteTrack, PyTorch, OpenCV |
+| [Sports-Analysis-Project](https://github.com/halukcansarioz/Sports-Analysis-Project) | NBA player performance analysis and next-game fantasy point prediction | Python, Machine Learning, Data Science |
+| [Financial-Sentiment-Analysis](https://github.com/halukcansarioz/Financial-Sentiment-Analysis) | Financial text sentiment analysis with Explainable AI | Python, FinBERT, Transformers, XAI |
+| [Wedding-Invitation](https://github.com/halukcansarioz/Wedding-Invitation) | Interactive digital wedding invitation PWA with real-time RSVP management | React, Vite, TypeScript, Supabase |
+| [Yds-Ai-Vocabulary-App](https://github.com/halukcansarioz/Yds-Ai-Vocabulary-App) | AI-powered YDS vocabulary learning and practice application | React, FastAPI, SQLite, AI |
+| [WhatsApp-Privacy-Suite](https://github.com/halukcansarioz/WhatsApp-Privacy-Suite) | Automated WhatsApp privacy and message management suite | Python, Playwright, Automation |
 | [QA-Test-Automation-Suite](https://github.com/halukcansarioz/QA-Test-Automation-Suite) | QA / Test Automation | Python, pytest, Playwright, Docker, CI |
 | [FastAPI-Docker-CI-Starter](https://github.com/halukcansarioz/FastAPI-Docker-CI-Starter) | FastAPI Microservice & CI Template | Python, FastAPI, pytest, Docker, CI |
-| [AdimPlan-EdTech-SaaS](/halukcansarioz/AdimPlan-EdTech-SaaS) | Multi-Tenant EdTech Coaching SaaS — PostgreSQL/Supabase RLS, FastAPI, Optical Parser, Live MVP | PostgreSQL, Supabase RLS, FastAPI, Optical Parser, pytest, Live MVP |
+| [AdimPlan-EdTech-SaaS](https://github.com/halukcansarioz/AdimPlan-EdTech-SaaS) | Multi-Tenant EdTech Coaching SaaS — PostgreSQL/Supabase RLS, FastAPI, Optical Parser, Live MVP | PostgreSQL, Supabase RLS, FastAPI, Optical Parser, pytest, Live MVP |
 
 ---
 
